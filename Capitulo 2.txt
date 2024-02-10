@@ -1,0 +1,77 @@
+BAIRON CAMILO PALECHOR DIAZ
+
+CAPITULO 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
+La estructura de una red puede variar en función de su tamaño, propósito y tecnología utilizada. Sin embargo, en términos generales, una red típica consta de los siguientes elementos:
+
+    1.	Dispositivos de red: Estos son los componentes físicos que forman la infraestructura de la red y permiten la comunicación entre diferentes dispositivos. Algunos dispositivos comunes :
+•	Routers: Dispositivos que dirigen el tráfico de red entre diferentes redes.
+•	Switches: Dispositivos que conectan múltiples dispositivos en una red local y permiten la comunicación directa entre ellos.
+•	Servidores: Computadoras dedicadas que proporcionan recursos y servicios a otros dispositivos en la red, como almacenamiento, impresión, correo electrónico, etc.
+
+   2.	Medios de transmisión: Estos son los medios a través de los cuales se transmiten los datos entre los dispositivos de la red. Pueden ser físicos, como cables de cobre, fibra óptica o conexiones inalámbricas como Wi-Fi. El medio de transmisión utilizado puede afectar la velocidad, la seguridad y la confiabilidad de la comunicación en la red.
+
+   3.	Protocolos y servicios de red: Los protocolos son reglas y estándares que rigen la comunicación entre los dispositivos en una red. Establecen cómo se empaquetan, envían y reciben los datos. Algunos protocolos comunes incluyen TCP/IP (Transmission Control Protocol/Internet Protocol), HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), etc. Los servicios de red son aplicaciones y funciones que se ejecutan en la red para proporcionar funcionalidades específicas, como la transferencia de archivos, el correo electrónico, la impresión compartida, etc.
+   4.	Direccionamiento IP: Cada dispositivo en una red necesita una dirección única para poder comunicarse entre sí. El direccionamiento IP es el método utilizado para asignar y administrar estas direcciones en una red, permitiendo que los datos se envíen a destinos específicos.
+En conjunto, estos elementos forman la estructura básica de una red y son necesarios para establecer comunicaciones exitosas entre los dispositivos conectados. 
+
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,INTERNETWORK E INTERNET.
+•	Red: Es un término general que se refiere a la conexión de dispositivos electrónicos para compartir recursos y comunicarse entre sí.
+•	LAN (Red de Área Local): Es una red que cubre un área geográfica pequeña, como una casa, una oficina o un edificio, y conecta dispositivos cercanos entre sí.
+•	WAN (Red de Área Amplia): Es una red que cubre un área geográfica grande, como una ciudad, un país o incluso el mundo entero. Conecta dispositivos distantes entre sí a través de tecnologías como líneas telefónicas, cables submarinos o satélites, conexión entre redes LAN.
+•	Internetwork: Es una colección de redes interconectadas, como LAN y WAN, que se comunican entre sí para formar una red más grande.
+•	Internet: Es la red más grande y global que interconecta millones de dispositivos en todo el mundo. Es un ejemplo de un internetwork y utiliza protocolos estándar de comunicación para permitir el intercambio de información a nivel global.
+
+
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+La diferencia radica en que Internetwork se refiere al concepto general de la interconexión de múltiples redes entre sí, mientras que Internet es el nombre específico de la red global más grande que une a millones de dispositivos en todo el mundo, permitiendo la comunicación y el intercambio de información a nivel mundial.
+
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+•	Tarjeta de interfaz de red (NIC): Es el componente físico de hardware que se conecta a una computadora y le permite comunicarse en una red.
+•	Puerto físico: Es el punto de conexión físico en un dispositivo de red donde se conecta un cable de red para establecer una conexión con otros dispositivos.
+•	Interfaz de red: Es el conjunto completo de hardware y software que permite que un dispositivo se conecte y comunique en una red. Esto incluye la NIC, el puerto físico y cualquier configuración o software necesario para la conexión.
+
+
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+Un protocolo se considera independiente de la tecnología porque se centra en definir reglas y estándares para la comunicación entre dispositivos, en lugar de estar vinculado a una tecnología específica. Esto significa que un protocolo puede ser implementado en diferentes tipos de tecnologías de red, como Ethernet, Wi-Fi o fibra óptica, siempre y cuando se cumplan sus especificaciones. Esto permite que dispositivos diferentes puedan comunicarse entre sí independientemente de la tecnología que estén utilizando.
+
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Una Unidad de Datos del Protocolo (PDU) es básicamente un término que describe un bloque de información en un nivel particular de un modelo de red. En otras palabras, es la unidad básica de información que se transmite a través de una red según un protocolo específico. Por ejemplo, en el modelo OSI, una PDU en la capa de transporte podría ser un segmento en TCP o un datagrama en UDP. La PDU contiene tanto los datos a transmitir como la información de control necesaria para la comunicación entre dispositivos.
+
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+(ILUSTRACION EN OTRO COMMING)
+
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Los modelos de protocolo y los modelos de referencia son dos enfoques diferentes para comprender y organizar la comunicación en redes.
+Modelo de Protocolo: Este modelo se centra en describir cómo funcionan los protocolos dentro de una suite específica, como TCP/IP. Define las funciones de cada capa de protocolos en el conjunto, proporcionando un mapa detallado de cómo se comunican los dispositivos en la red. Por ejemplo, el modelo TCP/IP describe las funciones específicas de cada capa, como la transmisión de datos capa de transporte o la dirección de paquetes capa de red.
+Modelo de Referencia: A diferencia del modelo de protocolo, un modelo de referencia no está ligado a una suite de protocolos en particular, como TCP/IP. En cambio, proporciona un marco común que se puede aplicar a diferentes tipos de protocolos y servicios de red. Su objetivo principal es brindar una comprensión clara de las funciones y procesos generales involucrados en la comunicación en red, sin entrar en detalles específicos de implementación. Por ejemplo, el modelo OSI (Open Systems Interconnection) es un modelo de referencia ampliamente utilizado que organiza las funciones de las redes en siete capas, lo que ayuda a comprender
+
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP:
+•	Capa de Acceso a la Red: Se encarga de la transmisión física de datos sobre la red.
+•	Capa de Internet: Gestiona la transmisión de datos a través de la red y direcciona los paquetes a sus destinos.
+•	Capa de Transporte: Controla la transmisión de datos entre dispositivos finales y garantiza que lleguen en orden y sin errores.
+•	Capa de Aplicación: Proporciona interfaces para que las aplicaciones de usuario puedan acceder a la red.
+
+Modelo OSI:
+
+•	Capa Física: Se encarga de la transmisión física de datos sobre la red.
+•	Capa de Enlace de Datos: Gestiona la comunicación entre dispositivos conectados directamente y controla el acceso al medio.
+•	Capa de Red: Se encarga de la transmisión de datos a través de la red y del enrutamiento de los paquetes.
+•	Capa de Transporte: Controla la transmisión de datos entre dispositivos finales y garantiza la entrega ordenada y sin errores.
+•	Capa de Sesión: Establece, mantiene y termina las conexiones entre dispositivos.
+•	Capa de Presentación: Se encarga de la conversión de datos para que puedan ser entendidos por las aplicaciones.
+•	Capa de Aplicación: Proporciona interfaces para que las aplicaciones de usuario puedan acceder a la red.
+
+
+
+
+
+
