@@ -1,0 +1,119 @@
+BAIRON CAMILO PALECHOR DIAZ 
+
+
+CAPITULO 1
+
+1. Listar al menos 5 actividades cotidianas que realiza usted utilizando internet.
+
+1.	Leer noticias en línea.
+2.	Enviar y recibir correos electrónicos.
+3.	Realizar búsquedas en línea para obtener información.
+4.	Ver videos o películas en plataformas de streaming.
+5.	Interactuar en redes sociales, como Facebook, Twitter o Instagram.
+
+2. Describir los factores que afectan la calidad de las comunicaciones.
+Los factores que afectan la calidad de las comunicaciones llegan a ser factores internos y externos como lo son :
+
+Factores externos : Los factores externos que influyen en la comunicación se relacionan con lo complicado que puede ser el camino que debe recorrer un mensaje para llegar a su destino final, como cuántos dispositivos tiene que atravesar. Estos factores afectan la calidad y eficacia de la comunicación de varias maneras:
+•	La calidad de la conexión entre quien envía y quien recibe el mensaje.
+•	Cuántas veces el mensaje necesita cambiar su forma para ser entendido o procesado.
+•	Cuántas veces el mensaje debe ser dirigido o re enrutado a lo largo de su trayectoria.
+•	La cantidad de otros mensajes que compiten por la atención en la red al mismo tiempo.
+•	La duración de tiempo disponible para que la comunicación sea exitosa.
+
+Factores internos : Los aspectos internos que pueden afectar la comunicación en redes están relacionados con el tipo de mensaje que se está transmitiendo. Mensajes diferentes pueden variar en su complejidad y relevancia. Los mensajes que son claros y directos tienden a ser más fáciles de entender que aquellos que son complicados.
+Los factores internos que afectan la comunicación exitosa en la red son:
+•	El tamaño del mensaje.
+•	La complejidad del mensaje.
+•	La importancia del mensaje.
+
+
+3. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+•	Reglas o protocolo 
+Además de los dispositivos y cables, las redes también dependen de reglas o protocolos que guían cómo se transmiten los datos. Estas reglas especifican cómo se envían los mensajes, se direccionan y se interpretan en los dispositivos finales. Por ejemplo, en Jabber, los protocolos XMPP, TCP e IP son esenciales para permitir la comunicación, asegurando que los mensajes se entreguen correctamente.
+
+•	Medio
+Para enviar un mensaje instantáneo, tu computadora debe estar conectada a una red, ya sea por cable o de forma inalámbrica. Las redes locales te permiten compartir información y acceder a Internet en casa, en la oficina o en lugares públicos como cafés y aeropuertos. Usan cables (Ethernet) para conectar dispositivos y son ideales para transferir datos con rapidez, especialmente para contenido multimedia de alta calidad.
+
+•	Mensajes
+Antes de enviar un mensaje instantáneo, ya sea texto, video, voz o datos, este se convierte en una serie de "unos" y "ceros" llamados bits. Estos bits son la forma en que la información viaja a través de internet. Una vez convertido, el mensaje puede ser enviado a través de la red hacia su destino.
+
+•	Dispositivos
+Para entender cómo funciona Internet, empecemos con algo sencillo: el envío de mensajes de texto mediante una aplicación de mensajería en una computadora. Generalmente, cuando pensamos en usar internet, lo asociamos con usar una computadora, pero en realidad muchos otros dispositivos pueden conectarse a la red, como teléfonos, cámaras, impresoras, etc.
+
+Para que nuestros mensajes lleguen a su destino a través de la red, hay varios componentes importantes, como los routers. Estos dispositivos conectan diferentes redes, como tu red doméstica e Internet, y se aseguran de que la información viaje de manera rápida y eficiente.
+
+
+4. Responda con sus propias palabras:
+	A. ¿Qué son los datos?
+	B. ¿Qué es una red de datos?
+	C. ¿Qué entiende por arquitectura de red?
+	D. ¿Qué es una red convergente?
+A.	Se le llama datos a la información que se transmite a través de una red, puede ser cualquier tipo de información.
+B.	Red de datos es una serie de conexión que me permite la comunicación y compartir diferente tipo de información , sería como un tipo de canal que permite viajar entre sí, mediante diferentes paquetes de información.
+C.	La entiendo como la estructura y diseño de una red , la puedo definir también como los componentes que conforman una red que están organizados y comunicados entre sí.
+D.	Una red convergente es aquella que permite un gran tráfico de datos , voz y videos.
+
+
+5. Describir las características de las arquitecturas de red
+	A. Tolerante a fallas,
+	B. Escalabilidad,
+	C. Calidad del servicio
+	D. Seguridad. Mostrar sus respectivos ejemplos.
+A.	La tolerancia a fallos se le llama a la capacidad de un sistema o red como sería el caso para poder seguir continuando con su funcionamiento de una manera aceptable, en el caso que cualquier dispositivo o factor del sistema llegue a fallar.
+B.	La tomo como la capacidad que tiene un sistema o red para adaptarse o crecer en momentos de mayor demanda o tráfico, sin llegar a perder su calidad de funcionamiento.
+C.	Se refiere a la calidad en que se ve comprometida la red o sistema , esto implica dando prioridades a diferentes acciones para no llegar a tener problemas en cuanto a su organización y así garantizar un uso debido y su funcionamiento sin inconvenientes.
+D.	La seguridad como dice la palabra se refiere a las diferentes medidas o prácticas que son diseñadas para la prevención de amenazas o diferentes factores que puedan afectar nuestra red. Algunos ejemplos para la seguridad son como : la contraseña, un firewall, Autenticación , encriptación de datos .
+
+
+6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+No orientadas a conexión : hace referencia a la comunicación entre dos puntos finales de una red , se refiere a que en el envió de información cuando se transmite de un extremo a otro este lo envía sin necesidad de asegurarse de que el receptor esté disponible y listo para recibir datos.
+Orientados a conexión:  Una red orientada a conexión consiste en que tiene que estar comunicada o enlazada para llegar a tener una transferencia de datos, En este tipo de redes, se crea un circuito o ruta específica para cada llamada telefónica, y los recursos necesarios se reservan para mantener esa conexión, incluso si no hay comunicación activa en ambos extremos.
+se crea un circuito específico para cada comunicación, lo que garantiza la calidad y consistencia de los mensajes transmitidos.
+
+
+7. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+La calidad del servicio (QoS) se trata de asegurar que las redes de comunicación funcionen de manera confiable y eficiente, proporcionando una experiencia consistente y satisfactoria para los usuarios. Para mantener una buena calidad de servicio, es importante:
+
+•	Gestionar el tráfico congestionado: Cuando hay demasiada demanda en la red, se necesitan formas de manejarla para evitar que se sature y afecte el rendimiento de las aplicaciones.
+•	Administrar recursos limitados: Dado que no todas las redes tienen recursos ilimitados, es necesario administrarlos cuidadosamente para asegurarse de que se utilicen de manera efectiva y no se desperdicien.
+•	Priorizar ciertos tipos de datos: Algunos datos son más importantes que otros, por lo que es crucial darles prioridad para que se transmitan de manera oportuna y sin interrupciones.
+•	Usar herramientas para controlar la calidad del servicio: Existen herramientas y técnicas diseñadas para ayudar a garantizar que la red funcione de manera óptima, incluso cuando hay mucha demanda o recursos limitados.
+•	Establecer reglas y políticas claras: Los administradores de red deben establecer reglas y políticas que aseguren que se mantenga una calidad de servicio adecuada en todo momento y en todas las circunstancias.
+
+
+8. ¿Por qué importa la calidad del servicio en una red de datos?
+La calidad del servicio en una red de datos es crucial porque afecta directamente la experiencia del usuario y la eficacia de las aplicaciones. Una red con buena calidad de servicio garantiza una conexión fluida y confiable, lo que mejora la productividad, la eficiencia de las aplicaciones y la confiabilidad de las operaciones comerciales. 
+
+
+9.  Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) yNivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+Los proveedores de Internet de Nivel-1 (Tier-1) son aquellos que tienen una infraestructura global extensa y conectividad directa con otros proveedores de Internet de Nivel-1, lo que les permite alcanzar cualquier destino en Internet sin depender de ningún otro proveedor. Tienen una red de gran alcance y pueden proporcionar servicios de conectividad a nivel mundial sin necesidad de intermediarios. En términos de relaciones comerciales, los proveedores de Nivel-1 generalmente no tienen que pagar por el tráfico que intercambian entre sí, ya que se considera que están en el mismo nivel de igualdad en la jerarquía de Internet.
+Por otro lado, los proveedores de Internet de Nivel-2 (Tier-2) son aquellos que no tienen una infraestructura tan extensa como los proveedores de Nivel-1. Dependiendo en cierta medida de los proveedores de Nivel-1 para alcanzar ciertos destinos en Internet, su alcance puede ser regional o nacional en lugar de global. En términos de relaciones comerciales, los proveedores de Nivel-2 a menudo deben pagar a los proveedores de Nivel-1 por el tráfico que envían a través de sus redes hacia destinos fuera de su propia infraestructura. Esto se conoce como peering o interconexión, donde los proveedores de Nivel-2 pagan a los proveedores de Nivel-1 por el acceso a su infraestructura global.
+
+
+10. Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+
+Decimos que los proveedores de Internet de Nivel-1 (Tier-1) son aquellos que tienen una infraestructura global extensa y conectividad directa con otros proveedores de Nivel-1. Algunos ejemplos de proveedores de Internet de Nivel-1 a nivel mundial son:
+1.	AT&T
+2.	Level 3 Communications (ahora parte de CenturyLink)
+3.	NTT Communications
+Por otro lado, los proveedores de Internet de Nivel-2 (Tier-2) son aquellos que no tienen una infraestructura tan extensa como los proveedores de Nivel-1. 
+Algunos ejemplos de proveedores de Internet de Nivel-2 a nivel mundial son:
+1.	Verizon
+2.	Sprint
+En Colombia, algunos proveedores de Internet en el país son:
+1.	Telmex Colombia (Claro)
+2.	UNE EPM Telecomunicaciones
+
+
+11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet.
+Los proveedores de Internet de Nivel-1 y Nivel-2 juegan roles importantes en la conectividad global y en la transmisión de datos a través de Internet.
+Los proveedores de Nivel-1 tienen una infraestructura de red muy grande y conectan directamente con otros proveedores de Nivel-1 en todo el mundo. Esto les permite enviar datos a cualquier parte del mundo sin depender de intermediarios. 
+Por otro lado, los proveedores de Nivel-2 tienen una infraestructura más limitada y pueden necesitar depender de los proveedores de Nivel-1 para alcanzar ciertos destinos en Internet. 
+La importancia de ambos tipos de proveedores radica en que facilitan la comunicación global al permitir que los datos se transmitan de manera rápida y eficiente a través de sus redes. Sin ellos, la conectividad global de Internet sería mucho más complicada y lenta. 
+
+
+
+12. Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
+Los proveedores de Internet son esenciales para mantener la conectividad global. Su gestión y regulación pueden influir en cómo las personas acceden a Internet en términos de costo, velocidad y disponibilidad. Si no se regulan adecuadamente, podrían surgir desigualdades en el acceso, lo que afectaría la equidad y la eficiencia en la conectividad digital para diferentes grupos de personas. Por lo tanto, es importante que se implementen políticas que aseguren un acceso justo y equitativo a Internet para todos.
